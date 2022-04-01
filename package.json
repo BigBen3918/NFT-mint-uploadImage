@@ -1,0 +1,24 @@
+{
+  "name": "image-generater",
+  "version": "1.0.0",
+  "description": "Image upload module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "image",
+    "upload",
+    "nft"
+  ],
+  "author": "tanya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^6.2.6"
+  }
+}
